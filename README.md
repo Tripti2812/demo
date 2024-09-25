@@ -1,2 +1,2 @@
 # demo
-practice
+practice of python from basic
